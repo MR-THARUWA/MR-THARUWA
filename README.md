@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Tharusha Lakshan, A simple bot developer, programmer and designer from Sri Lanka 🇱🇰.
+## Hi, I'm Tharusha Lakshan, A simple bot developer, programmer, ethical hacker and designer from Sri Lanka 🇱🇰.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
